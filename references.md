@@ -1,6 +1,6 @@
 # References and evidence base
 
-The repository prioritizes guidelines, randomized trials, systematic reviews and large prospective meta-analyses. Observational nutrition research is vulnerable to residual confounding, so individual foods should not be interpreted as proven causal lifespan-extending agents.
+The repository prioritizes guidelines, randomized trials, systematic reviews and large prospective meta-analyses. Observational nutrition and physical-activity research is vulnerable to residual confounding, so associations should not automatically be interpreted as proof of causation.
 
 ## Dietary pattern and cardiovascular outcomes
 
@@ -87,9 +87,67 @@ The repository prioritizes guidelines, randomized trials, systematic reviews and
 21. de Medeiros GCB, et al. **Associations of the consumption of unprocessed red meat and processed meat with cardiovascular disease incidence and mortality: systematic review and meta-analysis.** Crit Rev Food Sci Nutr. 2023. DOI: 10.1080/10408398.2022.2058461  
     https://pubmed.ncbi.nlm.nih.gov/35491892/
 
+# Exercise and physical activity
+
+## Resistance-training guidelines and broad synthesis
+
+22. Currier BS, et al. **American College of Sports Medicine Position Stand: Resistance Training Prescription for Muscle Function, Hypertrophy, and Physical Performance in Healthy Adults: An Overview of Reviews.** Med Sci Sports Exerc. 2026;58(4):851–872. DOI: 10.1249/MSS.0000000000003897  
+    https://doi.org/10.1249/MSS.0000000000003897
+
+23. Currier BS, et al. **Resistance training prescription for muscle strength and hypertrophy in healthy adults: a systematic review and Bayesian network meta-analysis.** Br J Sports Med. 2023. DOI: 10.1136/bjsports-2023-106807  
+    https://bjsm.bmj.com/content/57/18/1211
+
+## Global physical-activity recommendations
+
+24. World Health Organization. **WHO Guidelines on Physical Activity and Sedentary Behaviour.** 2020.  
+    https://www.who.int/publications/i/item/9789240015128
+
+25. Bull FC, et al. **World Health Organization 2020 guidelines on physical activity and sedentary behaviour.** Br J Sports Med. 2020;54:1451–1462. DOI: 10.1136/bjsports-2020-102955  
+    https://pmc.ncbi.nlm.nih.gov/articles/PMC7719906/
+
+## Load, repetitions and proximity to failure
+
+26. Lopez P, et al. **Resistance Training Load Effects on Muscle Hypertrophy and Strength Gain: Systematic Review and Network Meta-analysis.** Med Sci Sports Exerc. 2021. DOI: 10.1249/MSS.0000000000002585  
+    https://pubmed.ncbi.nlm.nih.gov/33433148/
+
+27. Grgic J, et al. **Effects of resistance training performed to repetition failure or non-failure on muscular strength and hypertrophy: a systematic review and meta-analysis.** J Sport Health Sci. 2022.  
+    https://pubmed.ncbi.nlm.nih.gov/33497853/
+
+28. Robinson ZP, et al. **Exploring the Dose-Response Relationship Between Estimated Resistance Training Proximity to Failure, Strength Gain, and Muscle Hypertrophy: A Series of Meta-Regressions.** Sports Med. 2024;54:2209–2231. DOI: 10.1007/s40279-024-02069-2  
+    https://pubmed.ncbi.nlm.nih.gov/38970765/
+
+## Rest intervals and range of motion
+
+29. Singer A, et al. **Give it a rest: a systematic review with Bayesian meta-analysis on the effect of inter-set rest interval duration on muscle hypertrophy.** Front Sports Act Living. 2024;6:1429789. DOI: 10.3389/fspor.2024.1429789  
+    https://pubmed.ncbi.nlm.nih.gov/39205815/
+
+30. Kassiano W, et al. **Does Muscle Length Influence Regional Hypertrophy? A Systematic Review and Meta-Analysis.** Sports Med. 2025.  
+    https://pubmed.ncbi.nlm.nih.gov/40570881/
+
+31. Strey B, et al. **Muscle hypertrophy from partial repetition at long vs. short muscle length: a systematic review and meta-analysis.** Sport Sci Health. 2026. DOI: 10.1007/s11332-025-01586-5  
+    https://doi.org/10.1007/s11332-025-01586-5
+
+## Concurrent aerobic + resistance training
+
+32. Schumann M, et al. **Compatibility of Concurrent Aerobic and Strength Training for Skeletal Muscle Size and Function: An Updated Systematic Review and Meta-Analysis.** Sports Med. 2022. DOI: 10.1007/s40279-021-01587-7  
+    https://pmc.ncbi.nlm.nih.gov/articles/PMC8891239/
+
+33. Lundberg TR, et al. **The Effects of Concurrent Aerobic and Strength Training on Muscle Fiber Hypertrophy: A Systematic Review and Meta-Analysis.** Sports Med. 2022;52:2391–2403. DOI: 10.1007/s40279-022-01688-x  
+    https://pmc.ncbi.nlm.nih.gov/articles/PMC9474354/
+
+## Steps and daily movement
+
+34. Ding D, et al. **Daily steps and health outcomes in adults: a systematic review and dose-response meta-analysis.** Lancet Public Health. 2025.  
+    https://pubmed.ncbi.nlm.nih.gov/40713949/
+
 ## Notes on interpretation
 
 - A Mediterranean pattern is supported by stronger intervention evidence than most individual-food claims.
 - Most food-specific mortality data are observational; they support pattern design but do not prove causation.
 - Protein targets for hypertrophy are supported by randomized training trials and meta-analyses, but individual response varies.
 - Fish-mercury advice is especially important during pregnancy, breastfeeding and childhood; local advisories matter for self-caught fish.
+- Resistance-training evidence strongly supports consistency and progressive overload, but does not establish one universally optimal exercise or rep range for everyone.
+- For hypertrophy, multiple loading zones can work; heavier loads are more specific to maximal strength.
+- Failure training is not mandatory. Proximity to failure matters more for hypertrophy than for strength, especially with lighter loads.
+- Aerobic and resistance training should usually be combined for overall health; concurrent training generally does not meaningfully reduce maximal strength or whole-muscle hypertrophy when programmed sensibly.
+- Step-count evidence is largely observational; 7,000 steps/day is a useful practical target, not a biological threshold.
